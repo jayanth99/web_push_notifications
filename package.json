@@ -1,0 +1,18 @@
+{
+  "name": "web-push-notifications",
+  "version": "1.0.0",
+  "description": "\"Web Push Notifications Sample\"",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^9.9.3"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
